@@ -40,6 +40,6 @@ public class Main
                 }
             }
         }
-        System.out.println("Valid: " + String.valueOf(valid));
+        System.out.println("Valid: " + String.valueOf(valid)); //335
 	}
 }

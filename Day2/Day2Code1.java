@@ -33,7 +33,7 @@ public class Day2Code1
                 }
             }
         }
-        System.out.println("Valid: " + String.valueOf(valid));
+        System.out.println("Valid: " + String.valueOf(valid)); //591
 	}
 	
 	private static int count(String password, char policyChar, int index) {
