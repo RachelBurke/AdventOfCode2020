@@ -1,5 +1,5 @@
-options = [[1,1], [3,1], [5,1], [7, 1], [1, 2]]
-multiply = 1;
+options = [[1,1], [3,1], [5,1], [7,1], [1,2]]
+multiply = 1
 
 for rightDown in options:
     numTrees = 0
